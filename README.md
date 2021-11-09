@@ -18,6 +18,3 @@ Once you have the mounted PCB - the process is very easy
 6) Configure AmsToMqtt to use Omnipower and GPIO 13, remember AES keys if used.
    - AmsToMqtt has nice Domoticz support as well as raw/JSON MQTT.
 8) Enjoy!
-
-ams2Mqtt currently requires to have USB power connected as it has the ESP8266 alive 24/7.
-Others (search github) have done ESP8266 code with deep-sleep to live only from the limited mA coming from the Omnipower.
