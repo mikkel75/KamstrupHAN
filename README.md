@@ -1,4 +1,4 @@
-![Board rev. 1.1](https://raw.githubusercontent.com/mikkel75/KamstrupHAN/main/3d_model.PNG)
+![Board rev. 1.1](https://raw.githubusercontent.com/mikkel75/KamstrupHAN/main/3d_model_v.1.2.PNG)
 ![ams2mqtt_ex](https://user-images.githubusercontent.com/22839537/136014923-615aa680-3982-4fa3-96f8-aa7382944311.PNG)
 
 # Kamstrup Omnipower HAN module with ESP8266
